@@ -10,7 +10,7 @@ int main()
   cin>>Edge;
 
 
-  int arr[Vertices][Vertices];
+  bool arr[Vertices][Vertices];
 
 
 
