@@ -4,9 +4,9 @@ int main()
 {
   int Vertices,Edge,From,To,Weigth;
 
-  cout<<"Enter Vertices:";
+  cout<<"Enter Number of Vertices:";
   cin>>Vertices;
-  cout<<"Enter Edge:";
+  cout<<"Enter Number of Edge:";
   cin>>Edge;
 
 
