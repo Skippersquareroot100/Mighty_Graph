@@ -1,3 +1,4 @@
+//undirected graph
 #include <bits/stdc++.h>
 using namespace std;
 //by using manual memory allocation
